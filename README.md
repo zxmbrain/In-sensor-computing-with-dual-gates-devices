@@ -1,2 +1,2 @@
 # image-edge-detection-
-for gjwu's paper, forboth  edge detection and SLAM
+for gjwu's paper, for both  edge detection and CNN simulation
